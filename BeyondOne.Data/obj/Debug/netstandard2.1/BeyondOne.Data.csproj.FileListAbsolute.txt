@@ -1,0 +1,10 @@
+D:\repos\BeyondOneChallenge\BeyondOne.Data\bin\Debug\netstandard2.1\BeyondOne.Data.deps.json
+D:\repos\BeyondOneChallenge\BeyondOne.Data\bin\Debug\netstandard2.1\BeyondOne.Data.dll
+D:\repos\BeyondOneChallenge\BeyondOne.Data\bin\Debug\netstandard2.1\BeyondOne.Data.pdb
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.csproj.AssemblyReference.cache
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.AssemblyInfoInputs.cache
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.AssemblyInfo.cs
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.csproj.CoreCompileInputs.cache
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.dll
+D:\repos\BeyondOneChallenge\BeyondOne.Data\obj\Debug\netstandard2.1\BeyondOne.Data.pdb
